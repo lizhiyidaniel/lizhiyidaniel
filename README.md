@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I am Zhiyi 👋
 
 <!--
 **lizhiyidaniel/lizhiyidaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ I am a recent comoputational linguistics graduate from UBC. I am working as a machine learning research assistant at UBC under supervision of Jungyeul Park. 
+ 
+ :heavy_check_mark: I love natural language processing and machine learning and believe in their impacts to make the world a better place 
+ 
+ :heavy_check_mark: I am currently looking for full time positions and working on some side projects to build my portfolio
+ 
+ :heavy_check_mark: In my spare time, I enjoy reading :books:, going to gym :runner: and watching movies :movie_camera:
+ 
+### To know more about me:
+- Check out my [website](https://lizhiyidaniel.github.io/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/zhiyili99/)
