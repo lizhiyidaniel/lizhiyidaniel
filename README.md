@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I am a recent comoputational linguistics graduate from UBC :school:. I am working as a machine learning research assistant at UBC under supervision of Jungyeul Park. 
+ I am a recent data science (comoputational linguistics) graduate from UBC :school:. I am working as a machine learning research assistant at UBC under supervision of Dr. Jungyeul Park. 
  
  :heavy_check_mark: I love natural language processing :computer: and machine learning and believe in their impacts to make the world :earth_asia: a better place 
  
